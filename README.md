@@ -19,4 +19,19 @@
 ## Диаграммы
 
 ### Диаграмма вариантов использования
-![image](https://github.com/creativedak/tz3/blob/main/assets/use-case-diagram)
+![image](https://github.com/creativedak/tz3/assets/167773209/eeb7b62a-0644-4d65-9605-c99188aba678)
+
+### Диаграмма последовательности
+![image](https://github.com/creativedak/tz3/assets/167773209/a31acf59-1a9a-4e82-b212-87c3b1f74861)
+
+### Диаграмма состояний
+![image](https://github.com/creativedak/tz3/assets/167773209/290cd298-d1c7-4509-98dc-8b2b016dc5a4)
+
+### Диаграмма действий
+![image](https://github.com/creativedak/tz3/assets/167773209/01f9cb53-c299-41c8-a0bb-673abd00e73e)
+Я подумал, что будет не совсем корректно описывать работу системы без привязки ко всем остальным
+участникам процесса, поэтому сделал чуть более расширенную диаграмму
+
+
+### Диаграмма классов
+![image](https://github.com/creativedak/tz3/assets/167773209/0c8cea0a-4424-4c1f-99f1-1dbe1089216e)
