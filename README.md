@@ -17,4 +17,4 @@
 ## Диаграммы
 
 ### Диаграмма вариантов использования
-![alt text] (https://github.com/creativedak/tz3/blob/main/uml%20диаграмма%20вариантов-Страница%20—%201.drawio.png))
+![image] (https://github.com/creativedak/tz3/blob/main/uml%20диаграмма%20вариантов-Страница%20—%201.drawio.png))
