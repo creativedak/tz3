@@ -17,4 +17,4 @@
 ## Диаграммы
 
 ### Диаграмма вариантов использования
-![image](https://github.com/creativedak/tz3/blob/main/assets/диаграмма%20вариантов)
+![image](https://github.com/creativedak/tz3/blob/main/assets/use-case-diagram)
