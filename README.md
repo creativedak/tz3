@@ -19,19 +19,16 @@
 ## Диаграммы
 
 ### Диаграмма вариантов использования
-![image](https://github.com/creativedak/tz3/assets/167773209/eeb7b62a-0644-4d65-9605-c99188aba678)
+![Диаграмма без названия-Страница — 1 drawio](https://github.com/creativedak/tz3/assets/167773209/aade3eff-8fea-436e-a9b1-dab1c56189a3)
 
 ### Диаграмма последовательности
-![image](https://github.com/creativedak/tz3/assets/167773209/a31acf59-1a9a-4e82-b212-87c3b1f74861)
+![Диаграмма без названия-Страница — 2 drawio](https://github.com/creativedak/tz3/assets/167773209/7ce559a1-09df-4549-8c37-c492735e2dd8)
 
 ### Диаграмма состояний
-![image](https://github.com/creativedak/tz3/assets/167773209/290cd298-d1c7-4509-98dc-8b2b016dc5a4)
+![Диаграмма без названия-Страница — 3 drawio (2)](https://github.com/creativedak/tz3/assets/167773209/8acba731-f6f3-46d1-8cd5-3f5af4c6341c)
 
 ### Диаграмма действий
-![image](https://github.com/creativedak/tz3/assets/167773209/01f9cb53-c299-41c8-a0bb-673abd00e73e)
-Я подумал, что будет не совсем корректно описывать работу системы без привязки ко всем остальным
-участникам процесса, поэтому сделал чуть более расширенную диаграмму
-
+![Диаграмма без названия-Страница — 4 drawio](https://github.com/creativedak/tz3/assets/167773209/fd97e845-daea-4a82-a3c9-f70002c7732c)
 
 ### Диаграмма классов
-![image](https://github.com/creativedak/tz3/assets/167773209/0c8cea0a-4424-4c1f-99f1-1dbe1089216e)
+![Диаграмма без названия-Страница — 5 drawio (1)](https://github.com/creativedak/tz3/assets/167773209/6d7a0414-8735-4ae6-a7f1-6aba1e886d85)
